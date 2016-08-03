@@ -42,6 +42,11 @@ Require both `jquery` and `jquery_ujs` into your application.js manifest.
 //= require jquery_ujs
 ```
 
+Installation using npm.
+------------
+
+Run `npm install jquery-ujs --save` to install the jquery-ujs package.
+
 Installation using Bower
 ------------
 
