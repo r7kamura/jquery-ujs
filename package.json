@@ -1,0 +1,22 @@
+{
+  "name": "jquery-ujs",
+  "version": "0.0.1",
+  "description": "Unobtrusive scripting adapter for jQuery ========================================",
+  "main": "src/rails.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/r7kamura/jquery-ujs.git"
+  },
+  "author": "Ryo Nakamura <r7kamura@gmail.com> (https://github.com/r7kamura)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/r7kamura/jquery-ujs/issues"
+  },
+  "homepage": "https://github.com/r7kamura/jquery-ujs#readme"
+}
